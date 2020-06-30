@@ -551,7 +551,7 @@
       "name": [
         "lapis_ore",
         "gold_ore",
-        "quartz_ore"
+        "quartz_ore",
 		"sky_stone_block"
       ],
       "type": "material"
