@@ -1,4 +1,19 @@
 [
+  {
+    "filter": {
+      "mod": "appliedenergistics2",
+      "name": "sky_stone_block",
+      "type": "material"
+    },
+    "settings": {
+      "rarity": 4,
+      "create": 20000,
+      "maintain": 7000,
+      "ticks": 300,
+      "worldgen": false,
+      "dimlet": true
+    }
+  },
   "Everything below this line will be regenerated from defaults every time. Remove this line if you do not want that",
   {
     "filter": {
@@ -551,8 +566,7 @@
       "name": [
         "lapis_ore",
         "gold_ore",
-        "quartz_ore",
-		"sky_stone_block"
+        "quartz_ore"
       ],
       "type": "material"
     },
