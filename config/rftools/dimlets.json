@@ -1,6 +1,36 @@
 [
   {
     "filter": {
+      "mod": "nuclearcraft",
+      "name": "ore",
+      "type": "material"
+    },
+    "settings": {
+      "rarity": 4,
+      "create": 15000,
+      "maintain": 10000,
+      "ticks": 500,
+      "worldgen": true,
+      "dimlet": true
+    }
+  },
+  {
+    "filter": {
+      "mod": "thermalfoundation",
+      "name": "ore",
+      "type": "material"
+    },
+    "settings": {
+      "rarity": 4,
+      "create": 15000,
+      "maintain": 10000,
+      "ticks": 500,
+      "worldgen": true,
+      "dimlet": true
+    }
+  },
+  {
+    "filter": {
       "mod": "appliedenergistics2",
       "name": "sky_stone_block",
       "type": "material"
